@@ -13,6 +13,9 @@ I have developed a portfolio website using HTML, CSS, and JavaScript. The site s
 - **CSS**: For styling and layout, including responsive design elements.
 - **JavaScript**: For interactive features and dynamic content.
 
+[Click here to view the demo](https://teneplays.github.io/Personal-Portfolio-Website/)
+
+
 ### Screenshots
 Here are some screenshots of the website:
 
