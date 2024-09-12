@@ -3,10 +3,11 @@
     padding: 0;
     box-sizing: border-box;
   }
+  
+  html {
+    scroll-behavior: smooth;
+  }
 
-html {
-  scroll-behavior: smooth;
-}
 
   body {
     font-family: 'Poppins', sans-serif;
@@ -124,7 +125,7 @@ html {
     padding: 0 20px;
   }
   
-  .container {
+  .skills-interests-container {
     display: flex;
     justify-content: space-between;
     gap: 40px;
@@ -329,6 +330,10 @@ html {
       #about-me p {
         font-size: 16px;
         padding: 15px auto;  
+      }
+
+      .skills-interests-container{
+        flex-direction:column-reverse;
       }
 
     .project-grid {
